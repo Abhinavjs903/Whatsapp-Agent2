@@ -266,3 +266,15 @@ See [SECURITY.md](SECURITY.md).
 ## License
 
 License will be finalized before the first public release.
+
+
+
+## Local Development Guide
+
+Since the project is in the early architecture phase, code execution is not yet available.  
+Contributors can still set up the repository locally to prepare for future development.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Abhinavjs903/Whatsapp-Agent2.git
+   cd Whatsapp-Agent2
